@@ -1,0 +1,5 @@
+debbie (0.0.1-1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Alexander <alexhopgood@unknown>  Tue, 19 Apr 2016 08:31:46 +0100
